@@ -1,0 +1,58 @@
+/* * selecteaza totul - este folosit pentru reset in general
+    selectorul general nu are mostenire */
+* {
+    /* font-family: monospace; */
+}
+
+html {
+    font-size: 22px;
+}
+
+body {
+    /* font-size: 22px; */
+    border: 3px solid black;
+}
+
+main {
+    font-family: monospace;
+}
+
+button, input, textarea, select {
+    font: inherit
+}
+
+h1, h2{
+    color: blue;
+}
+
+/*  !important prioritizeaza un atribut si ignora suprascrierea acestuia 
+    este un semn de cod scris prost in general, nu trebuie sa apara decat daca stii bine ceea ce faci */
+p {
+    /* color: purple!important; */
+    color: purple;
+}
+
+p {
+    color: red;
+}
+
+/* daca pune spatiu o sa selecteze orice span din interiorul oricarui p (paragraf) */
+/* p span {
+    text-transform: uppercase;
+    background-color: gold;
+} */
+
+.highlight {
+    text-transform: uppercase;
+    background-color: gold;
+}
+
+/* . este pentru clasa: .gray */
+.gray {
+    color: gray;
+}
+
+/* # este pentru id: #second */
+#second {
+    font-style: italic;
+}
