@@ -1,0 +1,40 @@
+/* 
+
+Typography is the way that text is arranged and presented
+
+*/
+
+/* asta inlocuieste importul din html pt google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+
+body {
+    padding: 10%;
+    font-size: 2rem;
+}
+
+/* input, button {
+    font: inherit;
+} */
+
+p {
+    /* text-decoration: underline; */
+    /* text-decoration: line-through; */
+    /* text-decoration: overline; */
+    /* text-decoration: none; */
+    /* text-transform: capitalize; */
+    /* text-transform: uppercase; */
+    /* text-transform: lowercase; */
+    /* text-align: justify; */
+    /* text-align: right; */
+    /* text-align: left; */
+    /* text-indent: 2em; */
+    /* line-height: 1.5; */
+    /* letter-spacing: 0.25em; */
+    /* word-spacing: 2em; */
+    /* font-weight: bold; */
+    /* font-style: italic; */
+    /* font-family: sans-serif; */
+
+    /* stil de pe google fonts importat in html */
+    font-family: 'Syne Mono', monospace;
+}
