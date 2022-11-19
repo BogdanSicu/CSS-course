@@ -18,3 +18,6 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_un
 
 google fonts:
 https://fonts.google.com/
+
+link for special characters:
+https://unicode-table.com/en/
