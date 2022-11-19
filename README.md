@@ -21,3 +21,6 @@ https://fonts.google.com/
 
 link for special characters:
 https://unicode-table.com/en/
+
+challenge pentru a intelege flexbox
+https://flexboxfroggy.com/
