@@ -24,3 +24,6 @@ https://unicode-table.com/en/
 
 challenge pentru a intelege flexbox
 https://flexboxfroggy.com/
+
+challenge pentru a intelege grid layout
+https://cssgridgarden.com/
