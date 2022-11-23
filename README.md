@@ -27,3 +27,6 @@ https://flexboxfroggy.com/
 
 challenge pentru a intelege grid layout
 https://cssgridgarden.com/
+
+link pentru a verifica pe ce browsere merg anumite proprietati css
+https://caniuse.com/?search=background-clip
